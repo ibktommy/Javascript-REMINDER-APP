@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Reminder App</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+
+</head>
+
+<body>
+  <div class="container">
+    <h1 class="main-header">Reminder App</h1>
+    <form id="mainForm">
+      <div class="input-group">
+        <label for="title" class="label-title">Enter Title</label>
+        <input type="text" id="title" required>
+      </div>
+      <div class="input-group">
+        <label for="description" class="label-title">Enter Description</label>
+        <textarea id="description" required></textarea>
+      </div>
+
+      <button type="submit">Add Reminder</button>
+      <button type="reset">Clear Input Fields</button>
+    </form>
+
+    <div class="table">
+      <div class="table-header">
+        <h3>Reminder Title</h3>
+        <h3>Reminder Description</h3>
+        <h3>Status</h3>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+
+</html>
