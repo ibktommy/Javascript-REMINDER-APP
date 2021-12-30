@@ -4,12 +4,12 @@
 
 <div align="center">
   <h3>
-    <a href="{https://github.com/ibktommy/Dev-Challenge-My-Team_Page}">
-      Demo
+    <a href="{https://github.com/ibktommy/Javascript-REMINDER-APP}">
+      PROJECT DETAILS
     </a>
     <span> | </span>
     <a href="https://ibktommy-my-team-page-devchallenge.netlify.app/">
-      Project Website
+      PROJECT WEBSITE
     </a>
   </h3>
 </div>
@@ -28,7 +28,7 @@
 
 ## Overview
 
-<!-- ![screenshot](https://github.com/ibktommy/Dev-Challenge-My-Team_Page/blob/master/Project%20screenshot.png) --><br>
+![screenshot](https://github.com/ibktommy/Javascript-REMINDER-APP/blob/master/ScreenshotReminderApp.png)
 
 <li> This is a Reminder Web Application that I created using HTML/CSS/JS. The Javascript in the code is what makes the Reminder App functional.</li> <br>
 
